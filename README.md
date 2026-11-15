@@ -1,7 +1,3 @@
-# Autodesk-Inventor
-Mechanical CAD design, 3D solid models (STEP), 2D AutoCAD drawings (DWG), and technical manufacturing blueprints (PDF) created in Autodesk Inventor 2026.
-
-
 # Mechanical Design – González Manuel
 
 This repository contains the complete 3D CAD modeling and 2D technical documentation for the **González Manuel** mechanical design project, developed in **Autodesk Inventor 2026**.
